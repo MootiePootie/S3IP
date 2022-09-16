@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Net.Sockets;
 using System.Threading;
 
-namespace TestProject
+namespace S3IP
 {
     public partial class S3IP : Form
     {

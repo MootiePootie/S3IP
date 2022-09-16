@@ -1,4 +1,4 @@
-﻿namespace TestProject
+﻿namespace S3IP
 {
     partial class S3IP
     {

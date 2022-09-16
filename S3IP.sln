@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{194080C8-8603-4F89-96F3-9DD5B640C477}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3IP", "TestProject\S3IP.csproj", "{194080C8-8603-4F89-96F3-9DD5B640C477}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
