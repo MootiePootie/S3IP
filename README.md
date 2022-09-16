@@ -1,4 +1,4 @@
-# S3IP
+# S3IP (Splatoon 3 Image Printer)
 An image printer for Splatoon 3's image posting service
 
 
